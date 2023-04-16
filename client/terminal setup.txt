@@ -1,0 +1,31 @@
+PS G:\wowAi> node -v
+v16.13.1
+PS G:\wowAi> npm create vite@latest client --template vanilla
+Need to install the following packages:
+  create-vite@latest
+Ok to proceed? (y) y
+? Select a framework: » - Use arrow-keys. Return to submit.
+>   Vanilla
+    Vue
+    React
+√ Select a framework: » Vanilla
+√ Select a variant: » JavaScript
+
+Scaffolding project in G:\wowAi\client...
+
+Done. Now run:
+
+  cd client   
+  npm install 
+  npm run dev 
+
+PS G:\wowAi> cd client
+PS G:\wowAi\client> npm install
+
+added 14 packages, and audited 15 packages in 26s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS G:\wowAi\client>
